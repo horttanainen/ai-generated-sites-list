@@ -1,0 +1,2 @@
+itsourcecode.com
+google.*##a[href*="itsourcecode.com"]:nth-ancestor(3)
