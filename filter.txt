@@ -1,2 +1,5 @@
+![Adblock Plus 2.0]
+! Title: Ai Generated Sites List
+
 itsourcecode.com
 google.*##a[href*="itsourcecode.com"]:nth-ancestor(3)
